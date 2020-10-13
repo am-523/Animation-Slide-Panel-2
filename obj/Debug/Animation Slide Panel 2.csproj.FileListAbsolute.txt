@@ -1,0 +1,14 @@
+D:\AW 17\Source Code Visual Studio 19\Animation Slide Panel 2\bin\Debug\Animation Slide Panel 2.exe.config
+D:\AW 17\Source Code Visual Studio 19\Animation Slide Panel 2\bin\Debug\Animation Slide Panel 2.exe
+D:\AW 17\Source Code Visual Studio 19\Animation Slide Panel 2\bin\Debug\Animation Slide Panel 2.pdb
+D:\AW 17\Source Code Visual Studio 19\Animation Slide Panel 2\bin\Debug\Guna.UI2.dll
+D:\AW 17\Source Code Visual Studio 19\Animation Slide Panel 2\obj\Debug\Animation Slide Panel 2.csprojAssemblyReference.cache
+D:\AW 17\Source Code Visual Studio 19\Animation Slide Panel 2\obj\Debug\Animation_Slide_Panel_2.Form1.resources
+D:\AW 17\Source Code Visual Studio 19\Animation Slide Panel 2\obj\Debug\Animation_Slide_Panel_2.Properties.Resources.resources
+D:\AW 17\Source Code Visual Studio 19\Animation Slide Panel 2\obj\Debug\Animation Slide Panel 2.csproj.GenerateResource.cache
+D:\AW 17\Source Code Visual Studio 19\Animation Slide Panel 2\obj\Debug\Animation Slide Panel 2.csproj.CoreCompileInputs.cache
+D:\AW 17\Source Code Visual Studio 19\Animation Slide Panel 2\obj\Debug\Animation Slide Panel 2.csproj.CopyComplete
+D:\AW 17\Source Code Visual Studio 19\Animation Slide Panel 2\obj\Debug\Animation Slide Panel 2.exe
+D:\AW 17\Source Code Visual Studio 19\Animation Slide Panel 2\obj\Debug\Animation Slide Panel 2.pdb
+D:\AW 17\Source Code Visual Studio 19\Animation Slide Panel 2\obj\Debug\Animation_Slide_Panel_2.tab.resources
+D:\AW 17\Source Code Visual Studio 19\Animation Slide Panel 2\obj\Debug\Animation_Slide_Panel_2.tabl.resources
